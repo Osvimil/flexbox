@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: tomato;
+  color: #fff;
+  font-family: helvetica;
+}
+h1,h2,h3,h4,h5,h6{
+  margin: 0;
+  padding: 10px;
+}
+.header{
+  background-color: rgba(120,88,122,0.4);
+}
+.sidebar1{
+  background-color: rgba(28,67,122,0.4);
+
+}
+.sidebar2{
+  background-color: rgba(28,45,122,0.4);
+
+}
+.contenido{
+  background-color: rgba(33,67,88,0.4);
+
+}
+.footer{
+  background-color: rgba(142,99,120,0.4);
+}
+.principal{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.aux{
+  text-align: center;
+  background-color: rgba(14,45,12,0.4);
+}
